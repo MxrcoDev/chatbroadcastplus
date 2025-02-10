@@ -1,0 +1,13 @@
+name: ChatBroadcastPlus
+version: '${project.version}'
+main: marcodev.chatbroadcastplus.ChatBroadcastPlus
+api-version: '1.20'
+load: STARTUP
+commands:
+  broadcast:
+    description: Create a broadcast
+    usage: /broadcast <message>
+    permission: broadcast.broadcast
+permissions:
+  broadcast.broadcast:
+    description: Broadcast command permission
