@@ -19,10 +19,10 @@ ChatBroadCast Plus is a plugin for Minecraft (version 1.20) that allows server a
 | `/broadcast <message>` | Sends a global message to all players. |
 
 ## 🔐 Permissions
-- `chatbroadcast.use` → Allows using the `/broadcast` command.
+- `chatbroadcast.broadcast` → Allows using the `/broadcast` command.
 
 ## 🛠️ Configuration
-After the first launch, a `config.yml` file will be generated in the plugin's folder, where you can customize the message format.
+No configuration needed! Plugin is ready to use!
 
 ## 📄 License
 This project is distributed under the **MIT License**. You are free to use, modify, and distribute it.
