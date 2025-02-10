@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12&text=ChatBroadcast+&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12&text=ChatBroadcastPlus&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
 
 ChatBroadCast Plus is a plugin for Minecraft (version 1.20) that allows server administrators to send global chat messages to all players at once.
 
